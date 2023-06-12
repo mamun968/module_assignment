@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<img align="left" alt="Node.js" width="26px" src="../module6_app/images/WhatsApp%20Image%202023-06-12%20at%2020.15.47.jpg" />
+<img align="left" alt="Node.js" width="26px" src="../module6_app/images/WhatsApp%20Image%202023-06-12%20at%2020.15.49.jpg" />
